@@ -1,6 +1,5 @@
 <html>
 <body>
-<h1>Hello</h1>
-  <?php echo "aceita php"; ?>
+<h1>Apenas páginas estaticaso</h1>
 </body>
 </html>
